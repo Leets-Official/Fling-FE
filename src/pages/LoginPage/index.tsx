@@ -1,5 +1,5 @@
-import loginImage from '@/assets/kakao_login_medium_wide.png'
-import logo from '@/assets/fling.png'
+import loginImage from '@/assets/images/kakao_login_medium_wide.png'
+import logo from '@/assets/images/fling.png'
 import MerryGoRound from '@/components/MerryGoRound'
 
 const LoginPage = () => {
