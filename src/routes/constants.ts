@@ -3,4 +3,5 @@ export const PATH = {
   LOGIN: '/login',
   COIN: '/coin',
   LOGINOAUTH: '/oauth',
+  MYPAGE: '/mypage',
 }
